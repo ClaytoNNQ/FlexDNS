@@ -19,7 +19,7 @@
 
 ## Installation
 
-1. Download the Linux release archive => [flexdns-linux-x86_64.tar](https://github.com/flexdns/flexdns/releases/download/latest/flexdns-linux-x86_64.tar)
+1. Download the Linux release archive => [flex-dns-x86_64.tar.gz](https://github.com/ClaytoNNQ/FlexDNS/blob/main/flex-dns-x86_64.tar.gz)
 
 ### Extract the archive
 
