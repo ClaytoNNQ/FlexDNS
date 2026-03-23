@@ -23,8 +23,6 @@
 
 ### Extract the archive
 
-Tamam, o zaman `systemd-resolved` kapatma adımını ayrı bir başlık olarak eklemek yerine **[!CAUTION]** kısmına dahil edelim ve script zaten bunu halledeceğini belirtecek şekilde düzenleyebiliriz:
-
 ---
 
 ### Extract the archive
